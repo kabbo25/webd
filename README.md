@@ -1,7 +1,6 @@
 My Project Name is: The Grad Master
 
 
-
 This is basically self developement startup
 
 What I do in this Project:
