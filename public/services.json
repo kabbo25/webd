@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Programmimg for kids",
+        "price": "30000",
+        "description": "Suitable for kids.",
+        "img": "https://i.ibb.co/XSVTT9j/expert-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Python learning ",
+        "price": "1000",
+        "description": "Best Course. For everyone",
+        "img": "https://i.ibb.co/XSVTT9j/expert-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Machine Learning",
+        "price": "1500",
+        "description": "Lots of projects included.",
+        "img": "https://i.ibb.co/XSVTT9j/expert-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Web development",
+        "price": "1800",
+        "description": "Learn and Earn",
+        "img": "https://i.ibb.co/XSVTT9j/expert-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "C programmimg",
+        "price": "1000",
+        "description": "Learn zero to hero.",
+        "img": "https://i.ibb.co/XSVTT9j/expert-1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Scratch",
+        "price": "3000",
+        "description": "For kids",
+        "img": "https://i.ibb.co/XSVTT9j/expert-1.jpg"
+    }
+]
