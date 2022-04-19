@@ -8,7 +8,7 @@ What I do in this Project:
 => I love to explore new this. That's why I make a self-developement website
 
 
-
+->kabbo is motherfucker
 
 => I install react-bootstrap, react-dom, bootstrap, toast, hook etc
 
